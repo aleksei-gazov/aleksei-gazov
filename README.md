@@ -28,7 +28,7 @@
 
 <a href="https://github.com/ereminmaksim/github-readme-stats">
 
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=aleks&show_icons=true&include_all_commits=true&theme=radical"      
+<img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=aleksei-gazov&show_icons=true&include_all_commits=true&theme=radical"      
 alt="aleks github stats" />
 
   
